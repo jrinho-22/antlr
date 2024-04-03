@@ -1,0 +1,14 @@
+me\tomassetti\examples\MarkupParser\Java8Parser$ColorContext.class
+me\tomassetti\examples\MarkupParser\Java8Parser$CommandContext.class
+me\tomassetti\examples\MarkupParser\Java8Parser$LineContext.class
+me\tomassetti\examples\MarkupParser\Java8Parser$EmoticonContext.class
+me\tomassetti\examples\MarkupParser\Java8Parser$NameContext.class
+me\tomassetti\examples\MarkupParser\Java8BaseVisitor.class
+me\tomassetti\examples\MarkupParser\Java8Visitor.class
+org\example\Main.class
+me\tomassetti\examples\MarkupParser\Java8Parser$LinkContext.class
+me\tomassetti\examples\MarkupParser\Java8Parser$ChatContext.class
+me\tomassetti\examples\MarkupParser\Java8Parser.class
+me\tomassetti\examples\MarkupParser\Java8Parser$MessageContext.class
+me\tomassetti\examples\MarkupParser\Java8Lexer.class
+me\tomassetti\examples\MarkupParser\Java8Parser$MentionContext.class
